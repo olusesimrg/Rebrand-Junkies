@@ -172,7 +172,7 @@ hr{
                 .menu-bar{
                 float: right;
                 vertical-align: middle;
-    			padding-top: 2.3em;
+    			padding-top: 2em;
     			/*cursor: pointer;*/
                 }
                 #logo{
@@ -205,6 +205,9 @@ hr{
  					} 
 	  .header h1{
  	font-size: 3em;
+ }
+	  .header p{
+ 	font-size: 1.5em;
  }
  				.center-text{
 					background-color: transparent;
