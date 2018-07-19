@@ -61,7 +61,8 @@ li{
  }
 
  .header{
- 	padding: 7em 11em 9em 11em;
+ 	padding-top: 7em;
+    padding-bottom: 7em;
  	color: white;
  }    
  .header h1{
@@ -117,7 +118,7 @@ li{
 	border-radius: 10px;
 	padding: 2.5em;
 	margin-bottom: 20px;
-	background-image: url("images/111.jpg")no-repeat;
+	
 } 
 
 .testimony{
@@ -200,7 +201,6 @@ hr{
                 	padding-left: 5px;
                 }
                 .header{
- 					padding: 5em;
  					color: white;
  					}  
  				.center-text{
