@@ -202,7 +202,10 @@ hr{
                 }
                 .header{
  					color: white;
- 					}  
+ 					} 
+	  .header h1{
+ 	font-size: 3em;
+ }
  				.center-text{
 					background-color: transparent;
 					margin: 3em 5em 3em 5em;
@@ -252,7 +255,6 @@ hr{
 }
 .first{
     padding-top:30px;
-    padding-left: 50px;
     }
 }
 
@@ -267,7 +269,6 @@ hr{
 }
 .head ul{
     padding-top:10px;
-    padding-left: 50px;
     }
 #logo{
  	width: 100%; 
