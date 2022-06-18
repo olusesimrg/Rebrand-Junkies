@@ -2,4 +2,4 @@
 
 replicating rebrand Junkles site....
 
- check it out: https://olusesimrg.github.io/Practice/
+ check it out: https://olusesimrg.github.io/Rebrand-Junkies/
